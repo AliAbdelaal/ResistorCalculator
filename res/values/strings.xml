@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Resistor Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="EditText">Enter Value</string>
+    <string-array name="ResistorState">
+        <item >Parallel to</item>
+        <item >Series to</item>
+    </string-array>
+
+</resources>
